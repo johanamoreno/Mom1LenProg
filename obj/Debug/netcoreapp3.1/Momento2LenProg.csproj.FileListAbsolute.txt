@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\obj\Debug\netcoreapp3.1\Momento2LenProg.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\obj\Debug\netcoreapp3.1\Momento2LenProg.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\obj\Debug\netcoreapp3.1\Momento2LenProg.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\obj\Debug\netcoreapp3.1\Momento2LenProg.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\bin\Debug\netcoreapp3.1\Momento2LenProg.exe
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\bin\Debug\netcoreapp3.1\Momento2LenProg.deps.json
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\bin\Debug\netcoreapp3.1\Momento2LenProg.runtimeconfig.json
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\bin\Debug\netcoreapp3.1\Momento2LenProg.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\bin\Debug\netcoreapp3.1\Momento2LenProg.dll
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\bin\Debug\netcoreapp3.1\Momento2LenProg.pdb
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\obj\Debug\netcoreapp3.1\Momento2LenProg.dll
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\obj\Debug\netcoreapp3.1\Momento2LenProg.pdb
+C:\Users\Usuario\Documents\Estudio\Lenguaje\Momento2LenProg\obj\Debug\netcoreapp3.1\Momento2LenProg.genruntimeconfig.cache
